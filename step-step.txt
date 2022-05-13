@@ -1,0 +1,2 @@
+npx create-next-app -e with-tailwindcss twitter-clone
+npx create-next-app -- --js -e with-tailwindcss twitter-clone  ===javascript
