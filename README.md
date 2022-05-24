@@ -8,17 +8,17 @@ this is a twitter clone website that was built using nextjs, then decorated usin
 ![home Image](https://github.com/AlghazHernanda/twitter-clone/blob/main/comment.JPG?raw=true)
 
 ## This website was built using many tools, namely:
-- **Laravel 8**
+- **Nextjs**
 
-- **API Data from themoviedb.com**
+- **Taildwindcss**
    
-- **Tailwindcss V3.0** 
+- **Recoil** 
 
-- **Laravel Livewire**
+- **Nextauth**
  
-- **Alpine.js**
+- **Reactjs**
 
-- **ReactJs**
+- **Firebase9V**
 
 
 
